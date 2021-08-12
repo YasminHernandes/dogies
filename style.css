@@ -163,6 +163,7 @@ form {
 
 .btn-login:hover {
     background-color: #0d3568;
+    cursor: pointer;
 }
 
 span {
@@ -179,6 +180,7 @@ span:last-child {
 
 span:hover {
     color: #0d3568;
+    cursor: pointer;
 }
 
 /* IMAGE - DOG */
